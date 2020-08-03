@@ -4,7 +4,7 @@
 ![from](https://img.shields.io/badge/from-Matsue-92d1b2?style=for-the-badge)
 [![twitter](https://img.shields.io/badge/twitter-click!-06AFC2?style=for-the-badge)](https://twitter.com/is_stone_saw)
 [![listening](https://img.shields.io/badge/listening-lofi_hip_hop-2679B5?style=for-the-badge)](https://www.youtube.com/watch?v=DWcJFNfaw9c)
-## Langs
+## Languages
 ![ruby](https://img.shields.io/badge/ruby-love-A61103?style=for-the-badge)
 ![cpp](https://img.shields.io/badge/c++-enjoy-blue?style=for-the-badge)
 
