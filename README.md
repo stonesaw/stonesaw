@@ -6,7 +6,16 @@ hoby :
 
 
 ## Links
-[![twitter](https://img.icons8.com/cotton/64/000000/twitter.png)](https://twitter.com/is_stone_saw)
+<a href="https://twitter.com/is_stone_saw">
+<img align="left" src="https://img.icons8.com/cotton/64/000000/twitter.png" />
+</a>
+
+<div align="right">
+
+*Icon by*  
+<a href="https://icons8.com/icon/68193/ツイッター">ツイッター icon by Icons8</a>  
+</div>
+<br>
 
 
 ## Stats
@@ -14,12 +23,10 @@ hoby :
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=stonesaw&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonesaw" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonesaw&layout=compact" />
 </a>
 
 
-*Icon by*  
-<a href="https://icons8.com/icon/68193/ツイッター">ツイッター icon by Icons8</a>
 
 
 <!--
