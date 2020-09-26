@@ -1,23 +1,24 @@
 # About Me
-### Age : 17  
-### hoby :
-    Watching Anime
-    Listenning Music
-    
+Age : 17  
+hoby :  
+- Watching Anime
+- Listenning Music
 
 
 ## Languages
-### ﾁｮｯﾄﾃﾞｷﾙ
+ﾁｮｯﾄﾃﾞｷﾙ
+<p>
 <a href="https://ja.wikipedia.org/wiki/Null">
 <img width="50" height="50" />
 </a>
+<p>
 
-### 何もわからない
+NaNもわからん
 <p>
 <img src="https://cdn.svgporn.com/logos/ruby.svg" width="50" height="50">
 </p>
 
-### 完全に理解した
+完全に理解した
 <p>
 <img src="https://cdn.svgporn.com/logos/python.svg"  width="50" height="50" />
 <img src="https://cdn.svgporn.com/logos/c.svg" width="50" height="50" />
@@ -26,6 +27,7 @@
 <img src="https://cdn.svgporn.com/logos/css-3.svg"  width="50" height="50" />
 <img src="https://cdn.svgporn.com/logos/javascript.svg"  width="50" height="50" />
 </p>
+
 
 ## Links
 [![twitter](https://img.icons8.com/cotton/64/000000/twitter.png)](https://twitter.com/is_stone_saw)
@@ -40,6 +42,5 @@
 </a>
 
 
-
-### Icon
+*Icon by*  
 <a href="https://icons8.com/icon/68193/ツイッター">ツイッター icon by Icons8</a>
