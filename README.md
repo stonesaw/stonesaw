@@ -10,6 +10,10 @@ hoby :
 <img align="left" src="https://img.icons8.com/cotton/64/000000/twitter.png" />
 </a>
 
+<a href="https://qiita.com/stonesaw">
+<img align="left" src="favicon64.png" />
+</a>
+
 <div align="right">
 
 *Icon by*  
