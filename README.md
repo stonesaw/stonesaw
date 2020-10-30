@@ -20,20 +20,20 @@
 
 
 ## Languages
-ﾁｮｯﾄﾃﾞｷﾙ
+ﾁｮｯﾄﾃﾞｷﾙ [🔔](https://enpedia.rxy.jp/wiki/%E3%83%81%E3%83%A7%E3%83%83%E3%83%88%E3%83%87%E3%82%AD%E3%83%AB)
 <p>
 <a href="https://ja.wikipedia.org/wiki/Null">
 <img width="50" height="50" />
 </a>
 <p>
 
-まあまあやった
+なにもわからない
 <p>
 <img src="https://cdn.svgporn.com/logos/ruby.svg" width="50" height="50">
 <img src="https://cdn.svgporn.com/logos/python.svg"  width="50" height="50" />
 </p>
 
-完全に理解した
+完全に理解した [🔔](https://static.clubt.jp/image/product/S0000076525/86000007.jpg)
 <p>
 <img src="https://cdn.svgporn.com/logos/c.svg" width="50" height="50" />
 <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="50" height="50" />
