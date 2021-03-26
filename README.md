@@ -20,41 +20,22 @@
 
 
 ## Languages
-ﾁｮｯﾄﾃﾞｷﾙ [🔗](https://enpedia.rxy.jp/wiki/%E3%83%81%E3%83%A7%E3%83%83%E3%83%88%E3%83%87%E3%82%AD%E3%83%AB)
-<p>
-<a href="https://ja.wikipedia.org/wiki/Null">
-<img width="50" height="50" />
-</a>
-<p>
-
-なにもわからない
-<p>
-<img src="https://cdn.svgporn.com/logos/ruby.svg" width="50" height="50">
-<img src="https://cdn.svgporn.com/logos/python.svg"  width="50" height="50" />
-</p>
-
-完全に理解した [🔗](https://static.clubt.jp/image/product/S0000076525/86000007.jpg)
-<p>
-<img src="https://cdn.svgporn.com/logos/c.svg" width="50" height="50" />
-<img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="50" height="50" />
-<img src="https://cdn.svgporn.com/logos/html-5.svg"  width="50" height="50" />
-<img src="https://cdn.svgporn.com/logos/css-3.svg"  width="50" height="50" />
-<img src="https://cdn.svgporn.com/logos/javascript.svg"  width="50" height="50" />
-</p>
-
+<img src="https://img.icons8.com/dusk/64/000000/ruby-programming-language.png" height="50" />
+<img src="https://img.icons8.com/dusk/64/000000/python.png" height="50" />
+<img src="https://img.icons8.com/dusk/64/000000/c-programming.png" height="50" />
+<img src="https://img.icons8.com/dusk/64/000000/html-5.png" height="50" />
+<img src="https://img.icons8.com/dusk/64/000000/javascript.png" height="50" />
 
 ## Links
-<a href="https://twitter.com/is_stone_saw">
-<img align="left" src="https://img.icons8.com/cotton/64/000000/twitter.png" />
+<a href="https://twitter.com/_sou_dev">
+<img align="left" src="https://img.icons8.com/cotton/64/000000/twitter.png" height="50" />
 </a>
 
 <a href="https://qiita.com/stonesaw">
-<img align="left" src="favicon64.png" />
+<img src="https://img.icons8.com/cotton/64/000000/regular-document.png" height="50"/>
 </a>
 
-<div align="right">
+<a href="https://www.pixiv.net/users/30110381">
+<img src="https://img.icons8.com/cotton/64/000000/paint-brush.png" height="50" />
+</a>
 
-*Icon by*  
-<a href="https://icons8.com/icon/68193/ツイッター">ツイッター icon by Icons8</a>  
-</div>
-<br>
