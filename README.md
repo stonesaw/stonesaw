@@ -20,10 +20,8 @@
 
 
 ## Languages
-<img src="https://img.icons8.com/dusk/64/000000/ruby-programming-language.png" height="50" />
-<img src="https://img.icons8.com/dusk/64/000000/python.png" height="50" />
-<img src="https://img.icons8.com/dusk/64/000000/c-programming.png" height="50" />
-<img src="https://img.icons8.com/dusk/64/000000/html-5.png" height="50" />
+<img src="https://img.icons8.com/dusk/64/000000/ruby-programming-language.png" height="50" /><img src="https://img.icons8.com/dusk/64/000000/python.png" height="50" />
+<img src="https://img.icons8.com/dusk/64/000000/c-programming.png" height="50" /><img src="https://img.icons8.com/dusk/64/000000/html-5.png" height="50" />
 <img src="https://img.icons8.com/dusk/64/000000/javascript.png" height="50" />
 
 ## Links
