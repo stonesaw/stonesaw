@@ -1,9 +1,9 @@
 # About Me
 👋 Hi, there!
 
-🚩 Age : 17  
+🚩 Age : 18  
 ❤ hoby :  
-- 🎞 Watching Anime (likes よう実, 俺ガイル ...)
+- 🎞 Watching Anime  
 - 🎧 Listenning Music (my hits : Fujii Kaze)
 - 🎨 draw illustration (I sometimes draw pixel art)
 
@@ -25,15 +25,10 @@
 <img src="https://img.icons8.com/dusk/64/000000/javascript.png" height="50" />
 
 ## Links
-<a href="https://twitter.com/_sou_dev">
+<a href="https://twitter.com/sou_0x0v">
 <img align="left" src="https://img.icons8.com/cotton/64/000000/twitter.png" height="50" />
 </a>
 
 <a href="https://qiita.com/stonesaw">
 <img src="https://img.icons8.com/cotton/64/000000/regular-document.png" height="50"/>
 </a>
-
-<a href="https://www.pixiv.net/users/30110381">
-<img src="https://img.icons8.com/cotton/64/000000/paint-brush.png" height="50" />
-</a>
-
