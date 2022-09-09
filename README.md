@@ -1,18 +1,25 @@
-<h1 align="center">👋 Hi, there!</h1>
+```bash
+sou@GitHub:~$ links
+```
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=stonesaw&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonesaw&layout=compact" />
-</a>
+| links | url |
+| :---: | --- |
+| Portfolio | https://stonesaw.github.io/portfolio |
+| Twitter | https://twitter.com/sou_0x0v |
+| Qiita | https://qiita.com/stonesaw |
 
-## Links
-Portfolio
-- https://stonesaw.github.io/portfolio
+<br />
 
-Twitter
-- https://twitter.com/sou_0x0v
+```bash
+sou@GitHub:~$ trophy --theme "onedark"
+```
 
-Qiita
-- https://qiita.com/stonesaw
+[![trophy](https://github-profile-trophy.vercel.app/?username=stonesaw&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+
+```bash
+sou@GitHub:~$ status --languages
+```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonesaw&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
