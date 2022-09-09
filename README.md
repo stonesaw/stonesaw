@@ -2,7 +2,7 @@
 sou@GitHub:~$ links
 ```
 
-| links | url |
+| links | |
 | :---: | --- |
 | Portfolio | https://stonesaw.github.io/portfolio |
 | Twitter | https://twitter.com/sou_0x0v |
@@ -19,7 +19,7 @@ sou@GitHub:~$ trophy --theme "onedark"
 <br />
 
 ```bash
-sou@GitHub:~$ status --languages
+sou@GitHub:~$ status --languages --theme "onedark"
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonesaw&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonesaw&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
