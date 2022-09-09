@@ -14,7 +14,7 @@ sou@GitHub:~$ links
 sou@GitHub:~$ trophy --theme "onedark"
 ```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stonesaw&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stonesaw&theme=onedark&row=1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
